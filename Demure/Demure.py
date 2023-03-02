@@ -14,7 +14,7 @@ window.title('Demure')
 window.geometry("300x100")
 window.resizable(0,0)
 window.configure(bg="#140500")
-window.iconbitmap("D:/Program/workplace_py/Demure.ico")
+window.iconbitmap("Demure.ico")#前面補上Icon的路徑
 info=tk.Label(window, text='©kukumant0u',bg="#140500"
               ,fg='#5C5C5C', font=("Arial",8))
 info.place(relx=0.005,rely=0.8,relheight=0.2)
